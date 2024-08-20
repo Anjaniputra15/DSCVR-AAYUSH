@@ -1,0 +1,3 @@
+Building on Canvas is a breeze. Just create a post with your Application's URL. Applications can be built using familiar web UI and server frameworks (Vue, React, NextJS, NextJS, etc), and deployed on the infrastructure of your choice (Vercel, Heroku, Cloudflare, etc). Canvas provides an intuitive and simple way to build and distribute applications on DSCVR. If you like, you can embed your application in multiple posts across different portals/communities. We can't wait to see the innovative solutions you'll create and how you'll push the boundaries of what's possible in the decentralized social media space. Let's build the future of web3 social together!
+Canvas Developer Docs
+https://docs.dscvr.one/
